@@ -12,6 +12,8 @@
     <color name="colorPrimaryDark">#018787</color>
     <color name="colorAccent">#C875BA</color>
     <color name="gray">#A39F9F</color>
+    <color name="turquoise">#9CE1E1</color>
+    <color name="dark_blue">#00579A</color>
 
 
 </resources>
